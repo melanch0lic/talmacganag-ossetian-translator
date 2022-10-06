@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           '/home': (context) => HomePage(),
           '/translate': (context) => TranslatePage(),
         },
-        title: 'Dictionary',
+        title: 'Vocablury',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
